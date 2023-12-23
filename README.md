@@ -1,5 +1,8 @@
 # docker
 
+<img width="946" alt="スクリーンショット 0005-12-23 22 23 50" src="https://github.com/suimin-suyaa/docker/assets/118048244/698efabc-1517-4315-9898-8c02ed9e1abb">
+
+
 ・docker run ls ...イメージが作成できたか確認
 
 ・docker build -t docker/webrick:latest . ...イメージの作成コマンド
