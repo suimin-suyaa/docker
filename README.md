@@ -26,6 +26,7 @@
 > 
 > --docker/webrick:latest...起動するイメージを指定
 
+
 ・ｃontrol + c...Dockerの停止（ショートカット）
 
 ・docker container ls...コンテナ起動状態の確認
