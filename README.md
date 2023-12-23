@@ -47,3 +47,8 @@
 
 ・docker system pryne ...掃除
 
+・docker-compose build...composeのイメージビルド
+
+・docker-compose up -d...composeのコンテナ作成と起動
+
+・docker-compose down...composeのコンテナ停止、削除
