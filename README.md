@@ -3,16 +3,16 @@
 
 ・docker build -t docker/webrick:latest . ...イメージの作成コマンド
 
- 　∟docker build...イメージのビルド
+ 　　∟docker build...イメージのビルド
  
- 　∟t...イメージにタグをつけるオプション
+ 　　∟t...イメージにタグをつけるオプション
  
- 　∟docker/webrick...リポジトリ名
+ 　　∟docker/webrick...リポジトリ名
 
- 　∟:latest...タグ
+ 　　∟:latest...タグ
 
  ・docker container run -p 8000:8000 --name webrick docker/webrick:latest...dockerコンテナを起動するコマンド
- 
+
 　　　∟docker container run...dockerコンテナを起動するコマンド
 
  　∟-p...ポートマッピング
