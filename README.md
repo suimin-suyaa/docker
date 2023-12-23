@@ -2,6 +2,7 @@
 
 <img width="946" alt="スクリーンショット 0005-12-23 22 23 50" src="https://github.com/suimin-suyaa/docker/assets/118048244/698efabc-1517-4315-9898-8c02ed9e1abb">
 
+<img width="387" alt="スクリーンショット 0005-12-23 22 26 52" src="https://github.com/suimin-suyaa/docker/assets/118048244/bade6aef-2f4d-455c-97fc-5d20938298f5">
 
 ・docker run ls ...イメージが作成できたか確認
 
