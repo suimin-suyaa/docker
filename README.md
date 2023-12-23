@@ -6,8 +6,11 @@
 
 > [!NOTE]
 > docker build...イメージのビルド
+> 
 > t...イメージにタグをつけるオプション
+> 
 > docker/webrick...リポジトリ名
+> 
 > :latest...タグ
 
 ・docker container run -p 8000:8000 --name webrick docker/webrick:latest...dockerコンテナを起動するコマンド
