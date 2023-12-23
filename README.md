@@ -4,7 +4,8 @@
 
 ・docker build -t docker/webrick:latest . ...イメージの作成コマンド
 
-[!NOTE]
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 //docker build...イメージのビルド
 //t...イメージにタグをつけるオプション
