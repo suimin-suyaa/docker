@@ -1,8 +1,8 @@
-repuire 'webrick'
+require 'webrick'
 
 server = WEBrick::HTTPServer.new(
-  documentRoot: './',
-  BindAddres: '0.0.0.0',
+  DocumentRoot: '/var/www',  # 任意のディレクトリに修正
+  BindAddress: '0.0.0.0',
   Port: 8000
 )
 
