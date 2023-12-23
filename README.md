@@ -3,7 +3,9 @@
 ・docker run ls ...イメージが作成できたか確認
 
 ・docker build -t docker/webrick:latest . ...イメージの作成コマンド
+
 [!NOTE]
+
 //docker build...イメージのビルド
 //t...イメージにタグをつけるオプション
 //docker/webrick...リポジトリ名
